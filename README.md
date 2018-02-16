@@ -1,4 +1,4 @@
 # devops-aula2
-ator 1
+pedro
 ator 2
 ator 3
